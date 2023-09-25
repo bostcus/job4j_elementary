@@ -16,6 +16,6 @@ public class Point {
         result = Point.distance(1, 1, 41, 1);
         System.out.println("result (1, 1) to (41, 1) " + result);
         result = Point.distance(25, 0, 75, 0);
-        System.out.println("result (1, 1) to (41, 1) " + result);
+        System.out.println("result (25, 0) to (75, 0) " + result);
     }
 }
